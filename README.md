@@ -2,6 +2,12 @@
 
 O aplicativo de Receita Fácil permite que o usuário visualize diversas receitas de forma detalhada, incluindo vídeo de preparação, lista de ingredientes e modo de preparo. Além disso, é possível favoritar as receitas que mais gostar e também buscar por receitas específicas. Com uma interface intuitiva e fácil de usar, o aplicativo é uma ótima opção para quem deseja aprender novas receitas e explorar diferentes tipos de culinária.
 
+## Interface do App
+![Screenshot_20230415_122406_Expo Go](https://user-images.githubusercontent.com/79488603/232234419-76271f51-e2c3-4851-87ca-ce892122eb07.jpg)
+![Screenshot_20230415_122429_Expo Go](https://user-images.githubusercontent.com/79488603/232234427-92634acd-67e2-4ca1-b88d-7d0e0e9be2e4.jpg)
+![Screenshot_20230415_122555_Expo Go](https://user-images.githubusercontent.com/79488603/232234435-0b2f6097-d2f2-47e1-95b9-c![Screenshot_20230415_122435_Expo Go](https://user-images.githubusercontent.com/79488603/232234468-aced7efa-4002-421e-b0ed-16deb75d6497.jpg)
+c17fce25523.jpg)
+
 
 ## Tecnologias utilizadas
 
